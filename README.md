@@ -16,3 +16,24 @@ This project aims to apply three digital signal and image management techniques:
 * **DCGAN**: using a dataset containing celebrity faces, the objective is to develop a Generative Adversarial Network (GAN), that can generate completely new images that do not
               exist by learning from the input data with the implementation of neural networks. In this case study, a Deep Convolutional GAN has been developed,
               which can better capture local structures in images.
+
+
+# Repository structure
+
+This repository is structured as follows:
+
+```
+.
+├── DSIM Project
+│   ├── DCGAN - Roberto Ferrari
+│   │   └── DCGAN.ipynb                       # DCGAN task notebook
+│   ├── DSIM presentation.pdf
+│   ├── bi_dim_signal - Doghmi Samir          # Bi-Dim signal notebook
+│   │   └── task_2.ipynb
+│   └── mono_dim_signal - Luca Iarocci        # Mono-Dim signal notebook
+│       └── COUGHVID_classification.ipynb
+└── README.md
+
+```
+
+
