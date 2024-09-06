@@ -28,9 +28,9 @@ This repository is structured as follows:
 │   ├── DCGAN - Roberto Ferrari
 │   │   └── DCGAN.ipynb                       # DCGAN task notebook
 │   ├── DSIM presentation.pdf
-│   ├── bi_dim_signal - Doghmi Samir          # Bi-Dim signal notebook
+│   ├── bi_dim_signal - Doghmi Samir          # Bi-Dimensional signal notebook
 │   │   └── task_2.ipynb
-│   └── mono_dim_signal - Luca Iarocci        # Mono-Dim signal notebook
+│   └── mono_dim_signal - Luca Iarocci        # Mono-Dimensional signal notebook
 │       └── COUGHVID_classification.ipynb
 └── README.md
 
